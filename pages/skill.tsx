@@ -16,11 +16,11 @@ export default function skill() {
                         <div className="col-12 col-md-6 align-self-center">
                             <h1 className="fw-bold mb-5 mb-md-3">What I Do</h1>
                             <p>
-                                The main area of my expertise is front end development (client side of the web).
-                                Build beautiful and interactive Web Application with HTML, CSS, Javascript, React.
+                                The main area of my expertise is FullStack Web Developer.
+                                Build beautiful and interactive Web Application with JavaScript, NodeJS, HTML, CSS, React and etc.
                             </p>
                             <p>
-                                I also have full stack development experience with Node.Js and MongoDB.
+                                Developer + AI Enthusiast + Designer
                             </p>
                         </div>
                         <div className="col-12 col-md-5 align-self-center">

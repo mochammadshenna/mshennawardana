@@ -12,7 +12,7 @@ export default function contact() {
                         <h1 className="fw-bold mb-3">Contact Me</h1>
                         <p>
                             Do you have a project that requires my skills? I will be happy to help you by email
-                            shenawardana@gmail.com
+                            directly to <b className="text-danger">shenawardana@gmail.com</b>
                         </p>
                         <form action="">
                             <input type="text" name="name" placeholder="Name " className="form-control mb-3" />
@@ -22,6 +22,7 @@ export default function contact() {
                             <button className="btn d-block ms-auto px-4">Send </button>
                         </form>
                     </div>
+
                 </section>
             </main>
         </>

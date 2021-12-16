@@ -15,7 +15,7 @@ const Home: NextPage = () => {
             <h1 className="mb-0 h2">Hi,</h1>
             <h1 className="mb-0 h2">I&apos;m Shenna,</h1>
             <h1 className="h2">Full Stack Developer .</h1>
-            <p>Learn, Explore and Impelement</p>
+            <p>Helping people with disabilities</p>
             <Link href="/about">
               <a className="btn px-3">About Me</a>
             </Link>
