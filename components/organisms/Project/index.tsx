@@ -10,7 +10,7 @@ export default function index() {
             <ListProject
                 no="01."
                 title="QISWA"
-                image="/img/project/jiapunisri.png"
+                image="/img/project/pairproject.png"
                 desc="UNDER MAINTENANCE"
                 tools="React"
             />

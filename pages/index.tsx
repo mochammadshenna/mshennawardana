@@ -13,9 +13,9 @@ const Home: NextPage = () => {
         <header className="row align-items-center">
           <div className="col text-box">
             <h1 className="mb-0 h2">Hi,</h1>
-            <h1 className="mb-0 h2">I&apos;m MOCH SHENNA WARDANA,</h1>
+            <h1 className="mb-0 h2">I&apos;m Shenna,</h1>
             <h1 className="h2">Full Stack Developer .</h1>
-            <p>Front End Developer & Back End Developer</p>
+            <p>Learn, Explore and Impelement</p>
             <Link href="/about">
               <a className="btn px-3">About Me</a>
             </Link>
